@@ -1,0 +1,2 @@
+Esto es contenido incluido en el documento de texto 
+	para el ejercicio
