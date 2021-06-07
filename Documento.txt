@@ -1,2 +1,4 @@
 Esto es contenido incluido en el documento de texto 
 	para el ejercicio
+	
+Ahora hay nuevo contenido, hecho desde Github 
